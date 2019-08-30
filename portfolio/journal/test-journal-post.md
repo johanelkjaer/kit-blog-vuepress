@@ -9,3 +9,5 @@ date:
 This is pretty nice looking!
 
 ![](/upload/logo.svg)
+
+NEW EDIT!
