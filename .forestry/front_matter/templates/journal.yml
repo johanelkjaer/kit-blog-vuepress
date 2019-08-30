@@ -20,4 +20,5 @@ fields:
   config:
     required: true
 pages:
+- portfolio/journal/test-html.html
 - portfolio/journal/test-journal-post.md
